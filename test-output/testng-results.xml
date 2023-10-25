@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-18T05:50:25 IST" name="Suite" finished-at="2023-10-18T05:51:20 IST" duration-ms="54927">
+    <groups>
+    </groups>
+    <test started-at="2023-10-18T05:50:25 IST" name="Test" finished-at="2023-10-18T05:51:20 IST" duration-ms="54927">
+      <class name="testScenarios.SwitchingWindows">
+        <test-method signature="switchWind()[pri:0, instance:testScenarios.SwitchingWindows@48e4374]" started-at="2023-10-18T05:50:25 IST" name="switchWind" finished-at="2023-10-18T05:51:07 IST" duration-ms="42385" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- switchWind -->
+      </class> <!-- testScenarios.SwitchingWindows -->
+      <class name="testScenarios.MouseHover">
+        <test-method signature="dragAndDrop()[pri:0, instance:testScenarios.MouseHover@34b7ac2f]" started-at="2023-10-18T05:51:07 IST" name="dragAndDrop" finished-at="2023-10-18T05:51:15 IST" duration-ms="7491" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dragAndDrop -->
+      </class> <!-- testScenarios.MouseHover -->
+      <class name="testScenarios.DynamicDataHandling">
+        <test-method signature="DynData()[pri:0, instance:testScenarios.DynamicDataHandling@e056f20]" started-at="2023-10-18T05:51:15 IST" name="DynData" finished-at="2023-10-18T05:51:20 IST" duration-ms="4980" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DynData -->
+      </class> <!-- testScenarios.DynamicDataHandling -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
